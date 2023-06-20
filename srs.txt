@@ -1,0 +1,8 @@
+software required:
+java
+javascript
+react
+html
+css
+spring boot
+mysql
