@@ -16,3 +16,4 @@ class Box
 	}
 }
 
+function void display()
