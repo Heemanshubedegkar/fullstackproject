@@ -17,3 +17,7 @@ class Box
 }
 
 function void display()
+{
+
+return 0;
+}
